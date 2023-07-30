@@ -35,6 +35,4 @@
 </p>
 
 ---
-## Report bugs
 
-###### By BrianTech★: Report bug: developer.briantech008@gmail.com
